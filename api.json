@@ -1,0 +1,15 @@
+{
+	"demons": [{
+		"name": "Sataniel",
+		"age": 666,
+		"color": "#666"
+	}, {
+		"name": "Leviatahn",
+		"age": 0,
+		"color": "#660"
+	}, {
+		"name": "Baal",
+		"age": 30,
+		"color": "#000"
+	}]
+}
