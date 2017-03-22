@@ -1,15 +1,51 @@
 {
 	"demons": [{
-		"name": "Sataniel",
-		"age": 666,
-		"color": "#666"
-	}, {
-		"name": "Leviatahn",
-		"age": 0,
-		"color": "#660"
+		"name": "Aamon",
+		"century": 15,
+		"color": "#333",
+		"creed": "Christian",
+		"src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Aamon.jpg"
 	}, {
 		"name": "Baal",
-		"age": 30,
-		"color": "#000"
+		"century": 17,
+		"color": "#666",
+		"creed": "Christian",
+		"src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bael.jpg"
+	}, {
+		"name": "Caim",
+		"century": 19,
+		"color": "#666",
+		"creed": "Christian",
+		"src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Caim_in_bird_form.jpg"
+	}, {
+		"name": "Daeva",
+		"century": 5,
+		"color": "#999",
+		"creed": "Zoroastrianism",
+		"src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Shahnameh_-_The_Div_Akvan_throws_Rustam_into_the_sea.jpg"
+	}, {
+		"name": "Ifrit",
+		"century": 1,
+		"color": "#f00",
+		"creed": "Islamic",
+		"src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Brooklyn_Museum_-_Arghan_Div_Brings_the_Chest_of_Armor_to_Hamza.jpg"
+	}, {
+		"name": "Jinn",
+		"century": 1,
+		"color": "#f00",
+		"creed": "Islamic",
+		"src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Imam_Ali_and_the_Jinn.jpg"
+	}, {
+		"name": "Kabandha",
+		"century": 4,
+		"color": "#0f0",
+		"creed": "Hindu",
+		"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kabandha1.jpg/1024px-Kabandha1.jpg"
+	}, {
+		"name": "Kali",
+		"century": 10,
+		"color": "#00f",
+		"creed": "Hindu",
+		"src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Kali.png"
 	}]
 }
